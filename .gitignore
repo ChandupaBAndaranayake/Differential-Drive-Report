@@ -1,0 +1,6 @@
+#ignore .zip
+*.zip
+#ignore .7z
+*.7z
+#ignore .pdf
+*.pdf
